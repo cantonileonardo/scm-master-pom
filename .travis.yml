@@ -1,0 +1,9 @@
+language: java
+sudo: false # in favor of faster builds
+jdk:
+  - oraclejdk8
+branches:
+  only:
+    - master
+script:
+  - mvn clean verify
