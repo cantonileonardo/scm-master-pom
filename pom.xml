@@ -20,7 +20,7 @@
 
 		<versions-maven-plugin.version>2.3</versions-maven-plugin.version>
 		
-		<dependency-check-maven.version>1.4.4</dependency-check-maven.version>
+		<dependency-check-maven.version>1.4.5</dependency-check-maven.version>
 		<dependency-check-maven.skip>true</dependency-check-maven.skip>
 		
 		<maven-deploy-plugin.version>2.8.2</maven-deploy-plugin.version>
