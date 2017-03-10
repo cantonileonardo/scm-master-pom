@@ -37,6 +37,13 @@
 	<url>https://github.com/leonardocantoni/scm-master-pom</url>
 	<inceptionYear>2016</inceptionYear>
 
+	<licenses>
+		<license>
+			<name>The Apache License, Version 2.0</name>
+			<url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+		</license>
+	</licenses>
+
 	<developers>
 		<developer>
 			<id>leonardo.cantoni</id>
@@ -51,10 +58,9 @@
 	</developers>
 
 	<scm>
-		<connection>scm:git@github.com:leonardocantoni/scm-master-pom.git</connection>
-		<developerConnection>scm:git@github.com:leonardocantoni/scm-master-pom.git</developerConnection>
-		<tag>HEAD</tag>
-		<url>https://github.com/leonardocantoni/scm-master-pom</url>
+		<connection>scm:git:git://github.com/leonardocantoni/scm-master-pom.git</connection>
+		<developerConnection>scm:git:ssh://github.com:leonardocantoni/scm-master-pom.git</developerConnection>
+		<url>https://github.com/leonardocantoni/scm-master-pom/tree/master</url>
 	</scm>
   
 	<prerequisites>
