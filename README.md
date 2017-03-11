@@ -45,6 +45,7 @@ Badge | Status
 --- | ---
 **License** |  [![Apache license](https://img.shields.io/github/license/leonardocantoni/scm-master-pom.svg)](https://www.apache.org/licenses/LICENSE-2.0)
 **Travis CI Build** | [![Build Status](https://travis-ci.org/leonardocantoni/scm-master-pom.svg?branch=master)](https://travis-ci.org/leonardocantoni/scm-master-pom)
+**Issue Count** | [![Issue Count](https://lima.codeclimate.com/github/leonardocantoni/scm-master-pom/badges/issue_count.svg)](https://lima.codeclimate.com/github/leonardocantoni/scm-master-pom)
 **Version Eye** | [![Version Eye Dependency Status](https://www.versioneye.com/user/projects/58c1648ac920cf0032e3d9ed/badge.svg?style=flat-square)](https://www.versioneye.com/user/projects/58c1648ac920cf0032e3d9ed#tab-dependencies)
 **Latest Release Version** | [![Current Version](https://img.shields.io/github/release/leonardocantoni/scm-master-pom.svg)](https://github.com/leonardocantoni/scm-master-pom/releases/latest)
 
